@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492253564447",
+    "project_id": "pscdriver-444f3",
+    "storage_bucket": "pscdriver-444f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492253564447:android:aeed8885699569b168cf2a",
+        "android_client_info": {
+          "package_name": "com.magelangkab.pscdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492253564447-h8lap3nc1gms2egdkaaiebjtrdl6jc2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMa1pnMBt4RA3vK3sql1IYbnbpZtWxckc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492253564447-h8lap3nc1gms2egdkaaiebjtrdl6jc2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
